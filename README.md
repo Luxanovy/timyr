@@ -24,12 +24,12 @@ ImRend - это десктопное приложение для Windows, явл
 Приложение предоставит возможность редактировния изображений. В это входит возможность корректировать цветовою гамму, применение фильтров, сжатие изображений, работа с разными разрешениями.
 #### 1.3 Аналоги <a name="1.3"></a>
 Аналогами данного проекта являются такие приложения, как:
-* ["Photoshop"](https://www.adobe.com/ru/products/photoshop.html) 
-* ["Paint"](https://support.microsoft.com/ru-ru/windows/как-получить-microsoft-paint-a6b9578c-ed1c-5b09-0699-4ed8115f9aa9).
+* [Photoshop](https://www.adobe.com/ru/products/photoshop.html) 
+* [Paint](https://support.microsoft.com/ru-ru/windows/как-получить-microsoft-paint-a6b9578c-ed1c-5b09-0699-4ed8115f9aa9).
 ### 2. Требования пользователя <a name="2"></a>
 #### 2.1. Программные интерфейсы <a name="2.1"></a>
-1) ["Qt"](https://www.qt.io/) - фреймворк по разработке графических приложений.
-2) ["WinAPI"](https://docs.microsoft.com/en-us/windows/win32/apiindex/windows-api-list) - Программный интерфейс Windows.
+1) [Qt](https://www.qt.io/) - фреймворк по разработке графических приложений.
+2) [WinAPI](https://docs.microsoft.com/en-us/windows/win32/apiindex/windows-api-list) - Программный интерфейс Windows.
 #### 2.2. Характеристики пользователей <a name="2.3"></a>
 Целевая аудиория:
 * Люди, интересующиеся графикой, дизайном.
@@ -37,7 +37,7 @@ ImRend - это десктопное приложение для Windows, явл
 Desktop приложение.
 ### 3. Системные требования <a name="3"></a>
 Запуск и работа приложения на следующих операционных системах:
-* ["Windows"](https://microsoft.com)
+* [Windows](https://microsoft.com)
 #### 3.1. Функциональные требования <a name="3.1"></a>
 Пользователю предоставлены возможности, представленные в таблице.
 
